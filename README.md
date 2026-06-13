@@ -1,0 +1,1 @@
+This is the repositoey for my AI Lab Project named "AI Based Solar Panel Power Optimiztion" which takes sensor data attached on solar panel and give real time voltage, current draw data, system temparatureand real time Precipitation probasbility using AI.
